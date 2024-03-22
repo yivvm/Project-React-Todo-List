@@ -24,5 +24,7 @@ Todos are stored locally using browser's localStorage API, so they persist even 
 - `App.jsx`: Main component managing the state of todos and rendering the todo list.
 - `NewTodoForm.jsx`: Component for adding new todos.
 - `TodoList.jsx`: Component for rendering the list of todos.
+![todo1](./src/images/todo1.png)
+![todo2](./src/images/todo2.png)
    
 Source: https://www.youtube.com/watch?v=Rh3tobg7hEo
